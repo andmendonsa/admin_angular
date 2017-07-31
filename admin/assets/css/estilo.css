@@ -1,0 +1,15 @@
+#mensagem-retorno {
+  text-align: center!important;
+  margin-bottom: 30px!important;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
+
+#enviar-login {
+	float:right;
+	background-color: #000;
+	border-color: #000;
+}
